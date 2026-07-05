@@ -18,7 +18,7 @@ public class MailService {
 
         message.setFrom("santherrera@frba.utn.edu.ar");
         message.setTo(
-                "santiagoezequielherrera2003@gmail.com"
+                "admin@clima.com","emergencias@clima.com","meteorologia@clima.com"
         );
 
         message.setSubject("ALERTA CLIMÁTICA");
