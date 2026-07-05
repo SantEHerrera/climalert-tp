@@ -11,11 +11,11 @@ spring:
   mail:
     host: smtp.gmail.com
     port: 587
-    username: santiagoezequielherrera2003@gmail.com
-    password: ysnw ryxl jdgp tzqz
+    username: mail
+    password: contraseña
     properties:
       mail.smtp.auth: true
       mail.smtp.starttls.enable: true
 
 weather:
-  api-key: 04068e7f25874896843135850260507
+  api-key: api
